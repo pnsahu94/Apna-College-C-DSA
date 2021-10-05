@@ -1,1 +1,1 @@
-# Apna-College-C-DSA
+# Apna-College-C++-DSA
